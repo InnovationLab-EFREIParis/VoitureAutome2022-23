@@ -1,0 +1,1 @@
+float32[] lidar_scan

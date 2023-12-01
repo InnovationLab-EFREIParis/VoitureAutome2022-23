@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/sim_nav_v1/sim_nav_v1.egg-info
+writing ../../build/sim_nav_v1/sim_nav_v1.egg-info/PKG-INFO
+writing dependency_links to ../../build/sim_nav_v1/sim_nav_v1.egg-info/dependency_links.txt
+writing entry points to ../../build/sim_nav_v1/sim_nav_v1.egg-info/entry_points.txt
+writing requirements to ../../build/sim_nav_v1/sim_nav_v1.egg-info/requires.txt
+writing top-level names to ../../build/sim_nav_v1/sim_nav_v1.egg-info/top_level.txt
+writing manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+reading manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+writing manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib/sim_nav_v1
+copying sim_nav_v1/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib/sim_nav_v1
+copying sim_nav_v1/my_robot_driver.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib/sim_nav_v1
+running install
+running install_lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib/sim_nav_v1/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build/lib/sim_nav_v1/my_robot_driver.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1/my_robot_driver.py to my_robot_driver.cpython-38.pyc
+running install_data
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/ament_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/ament_index/resource_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/ament_index/resource_index/packages
+copying resource/sim_nav_v1 -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/ament_index/resource_index/packages
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/launch
+copying launch/sim_driver_launch.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/launch
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/resource
+copying resource/my_robot.urdf -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/resource
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/config
+copying config/my_robot.tf2 -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/config
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/worlds
+copying worlds/my_world.wbt -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/worlds
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/protos
+copying protos/TT02.proto -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/protos
+copying protos/016.2-Carrosserie realiste.stl -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/protos
+copying protos/TT02Wheel.proto -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1/protos
+copying package.xml -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/share/sim_nav_v1
+running install_egg_info
+Copying ../../build/sim_nav_v1/sim_nav_v1.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1-0.0.0-py3.8.egg-info
+running install_scripts
+Installing my_robot_driver script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/sim_nav_v1
+writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/install.log'

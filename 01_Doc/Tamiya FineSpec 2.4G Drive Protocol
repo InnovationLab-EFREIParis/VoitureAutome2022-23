@@ -1,0 +1,26 @@
+Pin from ESC(TEU-105BK) to radio receiver(TRU-08):
+Red = + voltage(from ESC to receiver)
+Black = - voltage(from ESC to receiver)
+White = driving signal(from receiver to ESC)
+
+ESC(TEU-105BK) driving signal:
+PWM frequency: 57.67Hz (Cycle=17.34ms)
+Duty cycle(neutral): 1500us         _|~~~|______________________________________________
+Duty cycle(full forward): 1100us    _|~~|_______________________________________________
+Duty cycle(full reverse): 1900us    _|~~~~|_____________________________________________
+Signal voltage = input voltage(from manual: 4.8V-7.2V)
+
+Servo(TSU-03) driving signal(identical to ESC):
+PWM frequency: 57.67Hz (Cycle=17.34ms)
+Duty cycle(centre): 1500us          _|~~~|______________________________________________
+Duty cycle(leftmost): 1100us        _|~~|_______________________________________________
+Duty cycle(rightmost): 1900us       _|~~~~|_____________________________________________
+Signal voltage = input voltage(from manual: 4.8V-6.0V)
+Rated current: 8mA (when supplied with 6.0V)
+Output torque: 3.5kg*cm (when supplied with 6.0V)
+
+ESC(TEU-105BK) spec:
+Maximum current: 60A
+Input voltage: 6.6V-7.2V
+Driving frequency: 1kHz
+Output voltage(to receiver): 6.0V

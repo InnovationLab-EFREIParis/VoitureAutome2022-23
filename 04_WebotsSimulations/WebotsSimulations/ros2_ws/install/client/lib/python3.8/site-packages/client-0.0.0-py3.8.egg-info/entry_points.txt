@@ -1,0 +1,4 @@
+[console_scripts]
+app = client.app:main
+client_node = client.client_node:main
+

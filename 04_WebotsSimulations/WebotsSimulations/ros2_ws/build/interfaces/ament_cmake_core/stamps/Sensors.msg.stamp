@@ -1,0 +1,8 @@
+string example_sensor1_name
+int64 example_sensor1_value
+
+string example_sensor2_name
+int64 example_sensor2_value
+
+string example_sensor3_name
+int64 example_sensor3_value

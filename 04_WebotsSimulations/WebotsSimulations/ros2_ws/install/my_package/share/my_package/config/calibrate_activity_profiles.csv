@@ -1,0 +1,7 @@
+name,duration,speed,steering
+forward_1,20,2,0.0
+forward_left_1,15,2,-0.26
+forward_right_1,15,2,0.26
+backward_1,10,-2,0.0
+forward_fast,15,4,0.0
+backward_fast,15,-4,0.0

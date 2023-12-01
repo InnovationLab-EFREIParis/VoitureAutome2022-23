@@ -1,0 +1,6 @@
+transforms:
+  - frame_id: "base_link"
+    child_frame_id: "lidar"
+    transform:
+      translation: {x: 0.0, y: 0.0, z: 0.5}
+      rotation: {x: 0.0, y: 0.0, z: 0.0, w: 1.0}

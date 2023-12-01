@@ -1,0 +1,21 @@
+[1.140s] Invoking command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/sim_nav_v1': PYTHONPATH=/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/prefix_override:/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_nav_v1 build --build-base /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build install --record /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/install.log --install-scripts $base/lib/sim_nav_v1 --single-version-externally-managed
+[1.328s] running egg_info
+[1.328s] writing ../../build/sim_nav_v1/sim_nav_v1.egg-info/PKG-INFO
+[1.328s] writing dependency_links to ../../build/sim_nav_v1/sim_nav_v1.egg-info/dependency_links.txt
+[1.328s] writing entry points to ../../build/sim_nav_v1/sim_nav_v1.egg-info/entry_points.txt
+[1.329s] writing requirements to ../../build/sim_nav_v1/sim_nav_v1.egg-info/requires.txt
+[1.329s] writing top-level names to ../../build/sim_nav_v1/sim_nav_v1.egg-info/top_level.txt
+[1.360s] reading manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+[1.361s] writing manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+[1.361s] running build
+[1.361s] running build_py
+[1.361s] running install
+[1.362s] running install_lib
+[1.363s] running install_data
+[1.364s] running install_egg_info
+[1.365s] removing '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1-0.0.0-py3.8.egg-info' (and everything under it)
+[1.365s] Copying ../../build/sim_nav_v1/sim_nav_v1.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1-0.0.0-py3.8.egg-info
+[1.367s] running install_scripts
+[1.384s] Installing my_robot_driver script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/sim_nav_v1
+[1.384s] writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/install.log'
+[1.399s] Invoked command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/sim_nav_v1' returned '0': PYTHONPATH=/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/prefix_override:/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_nav_v1 build --build-base /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/build install --record /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/install.log --install-scripts $base/lib/sim_nav_v1 --single-version-externally-managed

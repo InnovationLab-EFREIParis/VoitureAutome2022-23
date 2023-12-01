@@ -1,0 +1,13 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/DrivingFeedback.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/DrivingInstruction.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/DrivingResult.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/MonAckermannDrive.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/Sensors.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/ClientCommand.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:msg/RaceParams.msg",
+    "/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/interfaces:action/DriverAction.action"
+  ]
+}

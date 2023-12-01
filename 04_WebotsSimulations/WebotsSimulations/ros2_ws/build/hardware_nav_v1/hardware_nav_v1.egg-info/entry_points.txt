@@ -1,0 +1,5 @@
+[console_scripts]
+driver = hardware_nav_v1.driver:main
+motor = hardware_nav_v1.motor:main
+servo = hardware_nav_v1.servo:main
+

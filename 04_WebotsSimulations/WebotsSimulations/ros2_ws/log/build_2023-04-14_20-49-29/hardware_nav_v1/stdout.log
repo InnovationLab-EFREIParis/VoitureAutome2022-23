@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/hardware_nav_v1/hardware_nav_v1.egg-info
+writing ../../build/hardware_nav_v1/hardware_nav_v1.egg-info/PKG-INFO
+writing dependency_links to ../../build/hardware_nav_v1/hardware_nav_v1.egg-info/dependency_links.txt
+writing entry points to ../../build/hardware_nav_v1/hardware_nav_v1.egg-info/entry_points.txt
+writing requirements to ../../build/hardware_nav_v1/hardware_nav_v1.egg-info/requires.txt
+writing top-level names to ../../build/hardware_nav_v1/hardware_nav_v1.egg-info/top_level.txt
+writing manifest file '../../build/hardware_nav_v1/hardware_nav_v1.egg-info/SOURCES.txt'
+reading manifest file '../../build/hardware_nav_v1/hardware_nav_v1.egg-info/SOURCES.txt'
+writing manifest file '../../build/hardware_nav_v1/hardware_nav_v1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1
+copying hardware_nav_v1/motor.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1
+copying hardware_nav_v1/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1
+copying hardware_nav_v1/servo.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1
+copying hardware_nav_v1/driver.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1
+running install
+running install_lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1/motor.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1/servo.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/build/lib/hardware_nav_v1/driver.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1/motor.py to motor.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1/servo.py to servo.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1/driver.py to driver.cpython-38.pyc
+running install_data
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/ament_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/ament_index/resource_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/ament_index/resource_index/packages
+copying resource/hardware_nav_v1 -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/ament_index/resource_index/packages
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/hardware_nav_v1/launch
+copying launch/real_driver_launch.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/hardware_nav_v1/launch
+copying package.xml -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/share/hardware_nav_v1
+running install_egg_info
+Copying ../../build/hardware_nav_v1/hardware_nav_v1.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/python3.8/site-packages/hardware_nav_v1-0.0.0-py3.8.egg-info
+running install_scripts
+Installing driver script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/hardware_nav_v1
+Installing motor script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/hardware_nav_v1
+Installing servo script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/hardware_nav_v1/lib/hardware_nav_v1
+writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/hardware_nav_v1/install.log'

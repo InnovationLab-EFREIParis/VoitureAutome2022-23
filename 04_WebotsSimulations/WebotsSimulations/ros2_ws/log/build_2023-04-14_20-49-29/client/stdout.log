@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/client/client.egg-info
+writing ../../build/client/client.egg-info/PKG-INFO
+writing dependency_links to ../../build/client/client.egg-info/dependency_links.txt
+writing entry points to ../../build/client/client.egg-info/entry_points.txt
+writing requirements to ../../build/client/client.egg-info/requires.txt
+writing top-level names to ../../build/client/client.egg-info/top_level.txt
+writing manifest file '../../build/client/client.egg-info/SOURCES.txt'
+reading manifest file '../../build/client/client.egg-info/SOURCES.txt'
+writing manifest file '../../build/client/client.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client
+copying client/app.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client
+copying client/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client
+copying client/client_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client
+running install
+running install_lib
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client/app.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client
+copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/build/lib/client/client_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client/app.py to app.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client/client_node.py to client_node.cpython-38.pyc
+running install_data
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/ament_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/ament_index/resource_index
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/ament_index/resource_index/packages
+copying resource/client -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/ament_index/resource_index/packages
+creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/client/launch
+copying launch/client_launch.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/client/launch
+copying package.xml -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/share/client
+running install_egg_info
+Copying ../../build/client/client.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/python3.8/site-packages/client-0.0.0-py3.8.egg-info
+running install_scripts
+Installing app script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/client
+Installing client_node script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/client/lib/client
+writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/client/install.log'

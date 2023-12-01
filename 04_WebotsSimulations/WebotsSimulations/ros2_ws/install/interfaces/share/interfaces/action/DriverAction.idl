@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from interfaces/action/DriverAction.action
+// generated code does not contain a copyright notice
+
+#include "interfaces/msg/DrivingFeedback.idl"
+#include "interfaces/msg/DrivingInstruction.idl"
+#include "interfaces/msg/DrivingResult.idl"
+
+module interfaces {
+  module action {
+    @verbatim (language="comment", text=
+      "include <interfaces/msg/DrivingInstruction.msg>" "\n"
+      "include <interfaces/msg/DrivingResult.msg>" "\n"
+      "include <interfaces/msg/DrivingFeedback.msg>")
+    struct DriverAction_Goal {
+      interfaces::msg::DrivingInstruction instruction;
+    };
+    struct DriverAction_Result {
+      interfaces::msg::DrivingResult result;
+    };
+    struct DriverAction_Feedback {
+      interfaces::msg::DrivingFeedback feedback;
+    };
+  };
+};

@@ -1,0 +1,10 @@
+[console_scripts]
+brain_node = my_package.brain_node:main
+brain_node_MTD = my_package.brain_node_MTD:main
+brain_node_calibrate = my_package.brain_node_calibrate:main
+brain_node_manual = my_package.brain_node_manual:main
+brain_node_minimal = my_package.brain_node_minimal:main
+communication_node = my_package.communication_node:main
+lidar_preprocessing = my_package.lidar_preprocessing:main
+plotter_node = my_package.plotter_node:main
+

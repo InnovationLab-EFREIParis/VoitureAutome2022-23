@@ -1,0 +1,73 @@
+[1.188s] Invoking command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/my_package': PYTHONPATH=/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/prefix_override:/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build install --record /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/install.log --install-scripts $base/lib/my_package --single-version-externally-managed
+[1.434s] running egg_info
+[1.434s] creating ../../build/my_package/my_package.egg-info
+[1.434s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[1.435s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[1.435s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[1.435s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[1.435s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[1.437s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.476s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.477s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.477s] running build
+[1.478s] running build_py
+[1.478s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build
+[1.478s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib
+[1.478s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.478s] copying my_package/brain_node_manual.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.479s] copying my_package/plotter_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.479s] copying my_package/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.480s] copying my_package/brain_node_calibrate.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.480s] copying my_package/lidar_preprocessing.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.480s] copying my_package/brain_node_MTD.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.481s] copying my_package/aeb.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.481s] copying my_package/communication_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.481s] copying my_package/brain_node_minimal.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.481s] copying my_package/brain_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package
+[1.482s] running install
+[1.482s] running install_lib
+[1.482s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/brain_node_manual.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/plotter_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/__init__.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/brain_node_calibrate.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/lidar_preprocessing.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/brain_node_MTD.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/aeb.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.483s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/communication_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.484s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/brain_node_minimal.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.484s] copying /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build/lib/my_package/brain_node.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[1.484s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/brain_node_manual.py to brain_node_manual.cpython-38.pyc
+[1.485s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/plotter_node.py to plotter_node.cpython-38.pyc
+[1.486s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/__init__.py to __init__.cpython-38.pyc
+[1.486s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/brain_node_calibrate.py to brain_node_calibrate.cpython-38.pyc
+[1.487s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/lidar_preprocessing.py to lidar_preprocessing.cpython-38.pyc
+[1.488s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/brain_node_MTD.py to brain_node_MTD.cpython-38.pyc
+[1.489s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/aeb.py to aeb.cpython-38.pyc
+[1.489s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/communication_node.py to communication_node.cpython-38.pyc
+[1.490s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/brain_node_minimal.py to brain_node_minimal.cpython-38.pyc
+[1.490s] byte-compiling /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/brain_node.py to brain_node.cpython-38.pyc
+[1.491s] running install_data
+[1.492s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/ament_index
+[1.492s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/ament_index/resource_index
+[1.492s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/ament_index/resource_index/packages
+[1.492s] copying resource/my_package -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/ament_index/resource_index/packages
+[1.492s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package/launch
+[1.493s] copying launch/robot_launch.py -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package/launch
+[1.493s] creating /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package/config
+[1.493s] copying config/mapper_params_online_async.yaml -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package/config
+[1.493s] copying config/calibrate_activity_profiles.csv -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package/config
+[1.493s] copying package.xml -> /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/share/my_package
+[1.493s] running install_egg_info
+[1.494s] Copying ../../build/my_package/my_package.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package-0.0.0-py3.8.egg-info
+[1.495s] running install_scripts
+[1.516s] Installing brain_node script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.516s] Installing brain_node_MTD script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.516s] Installing brain_node_calibrate script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.517s] Installing brain_node_manual script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.518s] Installing brain_node_minimal script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.518s] Installing communication_node script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.519s] Installing lidar_preprocessing script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.520s] Installing plotter_node script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/my_package
+[1.520s] writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/install.log'
+[1.545s] Invoked command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/src/my_package' returned '0': PYTHONPATH=/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/prefix_override:/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/build install --record /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/my_package/install.log --install-scripts $base/lib/my_package --single-version-externally-managed

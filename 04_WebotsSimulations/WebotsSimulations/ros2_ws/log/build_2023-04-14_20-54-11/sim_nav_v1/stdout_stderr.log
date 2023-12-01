@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/sim_nav_v1/sim_nav_v1.egg-info/PKG-INFO
+writing dependency_links to ../../build/sim_nav_v1/sim_nav_v1.egg-info/dependency_links.txt
+writing entry points to ../../build/sim_nav_v1/sim_nav_v1.egg-info/entry_points.txt
+writing requirements to ../../build/sim_nav_v1/sim_nav_v1.egg-info/requires.txt
+writing top-level names to ../../build/sim_nav_v1/sim_nav_v1.egg-info/top_level.txt
+reading manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+writing manifest file '../../build/sim_nav_v1/sim_nav_v1.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/sim_nav_v1/sim_nav_v1.egg-info to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/python3.8/site-packages/sim_nav_v1-0.0.0-py3.8.egg-info
+running install_scripts
+Installing my_robot_driver script to /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/install/sim_nav_v1/lib/sim_nav_v1
+writing list of installed files to '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/sim_nav_v1/install.log'

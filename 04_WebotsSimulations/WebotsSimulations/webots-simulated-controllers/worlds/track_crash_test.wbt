@@ -1,0 +1,81 @@
+#VRML_SIM R2023a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+IMPORTABLE EXTERNPROTO "../protos/TT02.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/drinks/protos/WaterBottle.proto"
+
+WorldInfo {
+  title "One-Long-Test"
+}
+Viewpoint {
+  orientation -0.0051519762307134275 -0.01804330937490939 0.9998239325639887 1.425066511617931
+  position 0.25779546442196355 -2.127608510136737 0.22966711255146136
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+DEF TT02 TT02 {
+  translation 5.7992 -0.0320365 0.04
+  rotation 0 0 1 3.14159
+  controller "crash_test"
+  controllerArgs [
+    ""
+  ]
+  color 0.31 0.4 1
+}
+RectangleArena {
+  translation -0.00348036 -0.0324098 0
+  floorSize 12 1
+  wallHeight 0.01
+}
+WaterBottle {
+  translation -0.00101139 0.0937794 0
+  rotation 0 0 -1 0.26179530717958593
+}
+WaterBottle {
+  translation 0.00289904 -0.185471 0
+  rotation 0 0 1 -0.261795307179586
+  name "water bottle(3)"
+}
+WaterBottle {
+  translation 0.0856532 -0.138038 0
+  rotation 0 0 1 -0.261795307179586
+  name "water bottle(4)"
+}
+WaterBottle {
+  translation 0.0892001 -0.0487296 0
+  rotation 0 0 -1 0.261795
+  name "water bottle(5)"
+}
+WaterBottle {
+  translation 0.172783 -0.0917944 0
+  rotation 0 0 -1 0.261795
+  name "water bottle(6)"
+}
+WaterBottle {
+  translation 0.253413 -0.0433473 0
+  rotation 0 0 -1 0.261795
+  name "water bottle(8)"
+}
+WaterBottle {
+  translation 0.174865 0.00499019 0
+  rotation 0 0 -1 0.261795
+  name "water bottle(9)"
+}
+WaterBottle {
+  translation 0.0911946 0.0438611 0
+  rotation 0 0 -1 0.261795
+  name "water bottle(7)"
+}
+WaterBottle {
+  translation 0.00156333 -0.0946263 0
+  rotation 0 0 -1 0.26179530717958593
+  name "water bottle(2)"
+}
+WaterBottle {
+  rotation 0 0 1 -0.261795307179586
+  name "water bottle(1)"
+}

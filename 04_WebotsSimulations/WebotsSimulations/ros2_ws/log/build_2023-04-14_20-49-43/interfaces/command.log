@@ -1,0 +1,4 @@
+Invoking command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces -- -j16 -l16
+Invoked command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces -- -j16 -l16
+Invoking command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces
+Invoked command in '/home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/a/experiment-AI/toTransfer/WebotsSimulations/ros2_ws/build/interfaces

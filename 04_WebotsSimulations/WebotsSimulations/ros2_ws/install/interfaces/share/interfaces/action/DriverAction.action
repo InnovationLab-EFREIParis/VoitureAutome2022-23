@@ -1,0 +1,9 @@
+#include <interfaces/msg/DrivingInstruction.msg>
+#include <interfaces/msg/DrivingResult.msg>
+#include <interfaces/msg/DrivingFeedback.msg>
+
+DrivingInstruction instruction
+---
+DrivingResult result
+---
+DrivingFeedback feedback
